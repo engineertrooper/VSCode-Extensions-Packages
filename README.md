@@ -21,3 +21,7 @@ Feel free to copy, change, recommened, add or open an issue to the repository.
 ## Extensions Packages List
 
 - [DocumentationPackage.md](DocumentationPackage.md)
+
+## Sync Settings between diffrent VSCode installations
+
+Microsoft has an help article to that topic. --> [Settings Sync](https://code.visualstudio.com/docs/editor/settings-sync)
