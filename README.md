@@ -8,7 +8,7 @@ Feel free to copy, change, recommened, add or open an issue to the repository.
 
 ## How to Use?
 
-0. VSCode has the feature to install, disable and activate extensions via a ```extensions.json```. With that it is easier to change the workspace to  correct settings of the project. ([More information](https://code.visualstudio.com/docs/editor/extension-marketplace#_workspace-recommended-extensions))
+0. VSCode has the feature to install, disable and enable extensions via a ```extensions.json```. With that it is easier to change the workspace to  correct settings of the project. ([More information](https://code.visualstudio.com/docs/editor/extension-marketplace#_workspace-recommended-extensions))
 
 1. Place an ```extensions.json``` inside your ```.vscode``` directory. If there is no directory inside your current project, add the directory. (Make sure to write the ``` . ``` as well!)
 
