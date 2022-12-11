@@ -17,3 +17,7 @@ Feel free to copy, change, recommened, add or open an issue to the repository.
 3. Reload or restart your VSCode! The program should ask you to install extensions now or will install automatically all needed extensions.
 
 4. Sometimes Installed-Extensions are disabled, because there were install in past and then disabled. Please check if all extensions required are installed and enable, also all other extensions disabled if not recommended. Sometimes that can cause problems if you have many extensions working beside each other.
+
+## Extensions Packages List
+
+- [DocumentationPackage.md](DocumentationPackage.md)
