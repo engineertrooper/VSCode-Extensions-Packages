@@ -1,0 +1,20 @@
+{
+	//Name: DocumentationPackage
+	//Version: 0.1
+	//Origin Source: https://github.com/engineertrooper/VSCode-Extensions-Packages
+	
+	//How to use it? --> Read the ReadMe File in the repository
+
+	// List of extensions which should be recommended for users of this workspace.
+	"recommendations": [
+		"emmanuelbeziat.vscode-great-icons",
+		"james-yu.latex-workshop",
+		"yzane.markdown-pdf",
+		"tchayen.markdown-links",
+		"bierner.markdown-mermaid"
+	],
+	// List of extensions recommended by VS Code that should not be recommended for users of this workspace.
+	"unwantedRecommendations": [
+		
+	]
+}
